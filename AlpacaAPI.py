@@ -27,4 +27,4 @@ def Alpaca_func(TCKER, quantity):
             time_in_force='gtc',
         )
         
-Alpaca_func("AMZN", 1)
+#Alpaca_func("AMZN", 1)
